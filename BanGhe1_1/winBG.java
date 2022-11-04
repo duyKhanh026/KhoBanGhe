@@ -181,13 +181,13 @@ public class winBG {
 		panel_5.setBounds(0, 400, 752, 389);
 		panel_6.setBounds(0, 400, 752, 389);
 		
-		//panel.setBounds(166, 0, 600, 448); // Danh sách sản phẩm 
-		//panel_1.setBounds(166, 0, 600, 448); // 
-		//panel_2.setBounds(166, 0, 600, 448);
-		//panel_3.setBounds(166, 0, 600, 448);   //Phiếu nhập
-		//panel_4.setBounds(0, 0, 165, 302); //
-		//panel_5.setBounds(0, 0, 752, 389);   // phần đăng nhập
-		//panel_6.setBounds(0, 0, 752, 389); // admin
+		panel.setBounds(166, 0, 600, 448); // Danh sách sản phẩm 
+		panel_1.setBounds(166, 0, 600, 448); // 
+		panel_2.setBounds(166, 0, 600, 448);
+		panel_3.setBounds(166, 0, 600, 448);   //Phiếu nhập
+		panel_4.setBounds(0, 0, 165, 302); //
+		panel_5.setBounds(0, 0, 752, 389);   // phần đăng nhập
+		panel_6.setBounds(0, 0, 752, 389); // admin
 		
 		JLabel lblNewLabel_1 = new JLabel("Mã Phiếu");
 		lblNewLabel_1.setBounds(10, 11, 82, 17);
